@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="dark"><title>Moronco — Your own little world</title>
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<div id="app">
+  <header id="titlebar">
+    <button class="brand-mark" id="brand-menu" aria-label="Moronco menu" title="Moronco">M<span>·</span></button>
+    <button class="icon-button tab-scroll" id="tabs-left" title="Scroll tabs left" aria-label="Scroll tabs left" data-icon="back"></button>
+    <div id="horizontal-tabs" class="tab-strip" role="tablist" aria-label="Tabs"></div>
+    <button class="icon-button tab-scroll" id="tabs-right" title="Scroll tabs right" aria-label="Scroll tabs right" data-icon="forward"></button>
+    <button class="icon-button" id="all-tabs" title="Find an open tab" aria-label="Find an open tab" data-icon="down"></button>
+    <button class="icon-button new-tab-button" data-action="tab-new" title="New tab (Ctrl+T)" aria-label="New tab" data-icon="plus"></button>
+    <div id="window-drag" class="titlebar-space"></div>
+    <span class="edition-label">MORONCO <span>NOCTURNE</span></span>
+    <div class="window-controls">
+      <button data-action="window-minimize" aria-label="Minimize" data-icon="minus"></button>
+      <button data-action="window-maximize" aria-label="Maximize / Restore" data-icon="square"></button>
+      <button data-action="window-close" class="window-close" aria-label="Close window" data-icon="close"></button>
+    </div>
+  </header>
+  <div class="navigation-bar">
+    <div class="navigation-controls">
+      <button class="icon-button" id="back" data-action="back" title="Back (Alt+←)" aria-label="Back" data-icon="back"></button>
+      <button class="icon-button" id="forward" data-action="forward" title="Forward (Alt+→)" aria-label="Forward" data-icon="forward"></button>
+      <button class="icon-button" id="reload" data-action="reload" title="Reload (Ctrl+R)" aria-label="Reload" data-icon="reload"></button>
+    </div>
+    <form id="address-form" class="address-wrap">
+      <span class="address-icon" id="address-icon" data-icon="search"></span>
+      <input id="address" spellcheck="false" autocomplete="off" aria-label="Search or enter address" placeholder="Search or enter address…">
+      <button type="button" class="icon-button" id="search-both-address" title="Search both: Brave + SearXNG" aria-label="Search both" data-icon="copy"></button>
+      <button type="button" class="icon-button address-star" id="address-bookmark" title="Bookmark (Ctrl+D)" aria-label="Save bookmark" data-icon="star"></button>
+    </form>
+    <button class="protection-button" id="vpn-button" aria-label="Cloudflare WARP VPN" aria-pressed="false"><i data-icon="lock"></i><span>VPN</span></button>
+    <button class="protection-button" id="adblock-button" aria-label="Ad blocking" aria-pressed="false"><i data-icon="shield"></i><span>Ad block</span></button>
+    <button class="icon-button" id="downloads-button" data-page="downloads" title="Downloads (Ctrl+J)" aria-label="Downloads" data-icon="download"></button>
+    <button class="icon-button" id="command-button" title="Quick commands (Ctrl+K)" aria-label="Quick commands" data-icon="command"></button>
+    <button class="icon-button" id="menu-button" title="Menu" aria-label="Menu" data-icon="menu"></button>
+  </div>
+  <div id="bookmark-bar" class="bookmark-bar"></div>
+  <div id="find-bar" hidden>
+    <form id="find-form"><span data-icon="search"></span><input id="find-input" placeholder="Find in page…" aria-label="Find in page" autocomplete="off"><span class="find-tip">Enter to find next</span><button type="button" class="icon-button" id="find-previous" title="Previous match" aria-label="Previous match" data-icon="up"></button><button type="button" class="icon-button" id="find-next" title="Next match" aria-label="Next match" data-icon="down"></button><button type="button" class="icon-button" id="find-close" title="Close find" aria-label="Close find" data-icon="close"></button></form>
+  </div>
+  <div id="workspace">
+    <aside id="sidebar">
+      <div class="rail-top">
+        <button class="rail-button" data-action="home" title="New tab page" aria-label="New tab page" data-icon="home"></button>
+        <button class="rail-button" data-page="bookmarks" title="Bookmarks" aria-label="Bookmarks" data-icon="bookmark"></button>
+        <button class="rail-button" data-page="history" title="History (Ctrl+H)" aria-label="History" data-icon="history"></button>
+        <button class="rail-button" data-page="notes" title="Notes" aria-label="Notes" data-icon="note"></button>
+        <span class="rail-divider"></span>
+      </div>
+      <div id="vertical-tabs" class="vertical-tabs" role="tablist" aria-label="Tabs"></div>
+      <div class="rail-bottom">
+        <button class="rail-button" data-page="settings" title="Appearance settings" aria-label="Appearance settings" data-icon="palette"></button>
+        <div class="rail-monogram" title="Moronco Nocturne">m.</div>
+      </div>
+    </aside>
+    <main id="web-viewport">
+      <div id="internal-page"></div>
+      <div id="loading-page"><span class="loading-mark">M<span>·</span></span><p>Opening your world…</p></div>
+    </main>
+  </div>
+</div>
+<div id="overlay-root" hidden></div>
+<div id="toast" role="status" aria-live="polite"></div>
+<style id="user-css"></style>
+<script src="app.js"></script>
+</body>
+</html>

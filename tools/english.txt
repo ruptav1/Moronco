@@ -1,0 +1,283 @@
+Nhập địa chỉ web hoặc từ khóa để tìm kiếm.|Enter a web address or search query.
+Chỉ hỗ trợ địa chỉ HTTP, HTTPS và about:blank.|Only HTTP, HTTPS and about:blank are supported.
+Từ khóa tìm kiếm quá dài.|Search query is too long.
+Địa chỉ web không hợp lệ. Ví dụ: https://example.com|Invalid web address. Example: https://example.com
+Không hỗ trợ địa chỉ chứa tên đăng nhập hoặc mật khẩu.|Addresses containing usernames or passwords are not supported.
+Chỉ lưu dấu trang cho địa chỉ web HTTP/HTTPS.|Only HTTP/HTTPS pages can be bookmarked.
+Đã lưu dấu trang.|Bookmark saved.
+Nhập địa chỉ máy chủ HTTPS, hoặc HTTP localhost; không kèm truy vấn hay tài khoản.|Enter an HTTPS server or HTTP localhost address without query parameters or credentials.
+Không tìm thấy nội dung này trên trang.|No matching text found on this page.
+PiP cần video hỗ trợ; nếu chưa mở, dùng menu chuột phải của video.|Picture-in-picture requires a supported video. Try the video context menu.
+ yêu cầu quyền | requests permission: 
+.\n\nCho phép trang này?|.\n\nAllow this site for this session?
+Quyền trang web|Website permission
+Lưu tệp tải xuống|Save download
+Đang tải: |Downloading: 
+Mở tệp đã tải?\n|Open downloaded file?\n
+Chọn ảnh nền của bạn|Choose your wallpaper
+Chọn ảnh nhỏ hơn 25 MB.|Choose an image smaller than 25 MB.
+Chọn ảnh dưới 12000 px mỗi chiều.|Choose an image below 12000 px in each dimension.
+Xuất tùy chỉnh giao diện|Export appearance settings
+Đã xuất theme; ảnh tự chọn vẫn lưu riêng trên máy.|Theme exported; custom images remain stored separately on this device.
+Nhập tùy chỉnh giao diện|Import appearance settings
+Tệp theme vượt 500 KB.|Theme file exceeds 500 KB.
+Tệp theme không hợp lệ.|Invalid theme file.
+Đã nhập tùy chỉnh giao diện.|Appearance settings imported.
+Lưu ảnh phần trang đang nhìn thấy|Save visible page screenshot
+Xóa cookie và bộ nhớ đệm website? Bạn sẽ bị đăng xuất khỏi các trang. Dấu trang và theme vẫn được giữ.|Clear website cookies and cache? You will be signed out of websites. Bookmarks and appearance settings will be kept.
+Xóa dữ liệu duyệt web|Clear browsing data
+Đã xóa dữ liệu website.|Website data cleared.
+Đang có tệp tải xuống. Đóng trình duyệt và dừng tải?|Downloads are in progress. Close the browser and stop downloading?
+Đã khôi phục giao diện mặc định.|Default appearance restored.
+Thao tác không hoàn tất: |Action could not be completed: 
+Tìm sâu|Deep Search
+Tùy chỉnh|Settings
+Dấu trang|Bookmarks
+Lịch sử|History
+Tải xuống|Downloads
+Ghi chú|Notes
+Tab mới|New tab
+Đang tải…|Loading…
+Nhập từ khóa từ 1 đến 2.000 ký tự.|Enter a query between 1 and 2,000 characters.
+Tên miền phải có dạng example.org, không kèm đường dẫn.|Enter a domain such as example.org without a path.
+Cụm từ loại trừ tối đa 200 ký tự.|The excluded phrase must be at most 200 characters.
+Loại tệp không hợp lệ.|Invalid file type.
+Đã dừng gom kết quả.|Collection stopped.
+Đợi lượt tìm hiện tại hoặc nhấn Dừng.|Wait for the current search or press Stop.
+Cần chỗ trống cho hai tab nguồn.|Make room for two source tabs.
+Tab nguồn đã đóng.|Source tab was closed.
+Đã đọc |Read 
+ kết quả từ trang nguồn.| results from the source page.
+Chưa đọc được kết quả: nguồn có thể cần xác minh, không có kết quả hoặc đã đổi giao diện. Mở tab nguồn để kiểm tra.|No results could be read. The source may require verification, have no results, or have changed its layout. Open the source tab to check.
+Không đọc được tab nguồn. Có thể mở tab để tìm trực tiếp.|Could not read the source tab. Open it to search directly.
+Thiếu giao diện trình duyệt.|Browser interface files are missing.
+Không thực hiện được: |Could not complete action: 
+Đã mở 50 tab. Đóng bớt tab trước khi mở thêm.|50 tabs are open. Close some tabs before opening more.
+Địa chỉ này dùng giao thức chưa được hỗ trợ.|This address uses an unsupported protocol.
+Không tải được trang: |Could not load page: 
+. Nhấn tải lại để thử lại.|. Reload to try again.
+Tab gặp lỗi. Đóng tab rồi mở lại địa chỉ để thử lại.|This tab encountered an error. Close it and reopen the address.
+Không mở được tab: |Could not open tab: 
+Không lưu được tùy chỉnh. Kiểm tra quyền ghi thư mục dữ liệu.|Could not save settings. Check data folder write permissions.
+Đang kiểm tra Cloudflare WARP…|Checking Cloudflare WARP…
+Đang khởi tạo uBlock Origin Lite…|Initializing uBlock Origin Lite…
+Thiếu gói uBlock Origin Lite.|uBlock Origin Lite package is missing.
+Không bật được chặn quảng cáo: |Could not enable ad blocking: 
+Đang chặn quảng cáo và trình theo dõi · uBlock Origin Lite|Blocking ads and trackers · uBlock Origin Lite
+Chặn quảng cáo đang tắt · uBlock Origin Lite|Ad blocking is off · uBlock Origin Lite
+Đã |Successfully 
+bật|enabled
+tắt|disabled
+ chặn quảng cáo. Tải lại trang để áp dụng.| ad blocking. Reload pages to apply.
+Không đổi được chặn quảng cáo: |Could not change ad blocking: 
+Chưa cài Cloudflare WARP.|Cloudflare WARP is not installed.
+WARP không phản hồi. Mở ứng dụng Cloudflare WARP để kiểm tra.|WARP is not responding. Open Cloudflare WARP to check.
+Không liên lạc được với WARP hoặc lệnh bị từ chối. Mở WARP để kiểm tra dịch vụ và đăng nhập.|WARP could not be reached or rejected the command. Open WARP to check its service and registration.
+Chưa cài Cloudflare WARP trên máy.|Cloudflare WARP is not installed on this device.
+WARP báo đã kết nối · chế độ đường hầm VPN.|WARP reports connected · VPN tunnel mode.
+VPN đang tắt.|VPN is off.
+WARP đã kết nối nhưng chưa xác nhận chế độ VPN. Bật VPN để chuyển sang WARP.|WARP is connected but VPN mode is not confirmed. Enable VPN to switch to WARP.
+WARP đang kết nối…|WARP is connecting…
+Chưa xác định được trạng thái. Mở WARP để kiểm tra.|Status is unknown. Open WARP to check.
+Cài hoặc sửa Cloudflare WARP từ one.one.one.one rồi thử lại.|Install or repair Cloudflare WARP from one.one.one.one and try again.
+Địa chỉ SearXNG không hợp lệ.|Invalid SearXNG address.
+Nhập từ khóa cần tìm.|Enter a search query.
+Từ khóa quá dài (tối đa 8.000 ký tự).|Query is too long (maximum 8,000 characters).
+Cần chỗ trống cho hai tab tìm kiếm. Đóng bớt tab rồi thử lại.|Make room for two search tabs. Close some tabs and try again.
+Đã mở Brave và SearXNG với cùng từ khóa.|Opened Brave and SearXNG with the same query.
+Moronco đang mở với hồ sơ này. Dùng cửa sổ hiện tại để mở thêm tab.|Moronco is already using this profile. Open more tabs in the existing window.
+Không mở được Moronco.\n|Could not start Moronco.\n
+Không thể mở Moronco: |Could not start Moronco: 
+Đóng tab|Close tab
+Những trang bạn yêu thích, luôn ở đây.|Your favorite pages, always here.
+Thêm dấu trang|Add bookmark
+Đối chiếu Brave và các nguồn của SearXNG. Không dùng AI để viết lại kết quả.|Compare Brave and SearXNG sources. Results are not rewritten by AI.
+Từ khóa|Query
+Điều bạn muốn tìm|What would you like to find?
+Cách tìm|Search mode
+Mở rộng — nhiều nguồn|Broad — multiple sources
+Chính xác — nguyên cụm từ|Exact — whole phrase
+Chỉ trong tên miền (tùy chọn)|Only this domain (optional)
+Loại trừ cụm từ (tùy chọn)|Exclude phrase (optional)
+Cụm từ không muốn gặp|Phrase to exclude
+Loại tệp|File type
+Mọi loại|Any type
+Dừng gom|Stop collecting
+Cài đặt nguồn|Source settings
+Mỗi lượt mở 2 tab nguồn và gửi cùng truy vấn đến Brave và máy chủ SearXNG đã chọn. Chỉ gom kết quả đọc được ở trang đầu; không vượt CAPTCHA. Chế độ Chính xác đặt cụm từ trong dấu ngoặc kép; việc hỗ trợ bộ lọc tùy nguồn.|Search opens two source tabs and sends your query to Brave and your chosen SearXNG server. Exact mode quotes the whole phrase. Filter support depends on each source. Verification challenges are not bypassed.
+Nhập từ khóa để bắt đầu. Kết quả chỉ giữ trong phiên đang mở.|Enter a query to begin. Results are kept only for this session.
+Truy vấn đã gửi: |Submitted query: 
+Mở tab nguồn|Open source tab
+ · Đang gom…| · Collecting…
+Xen kẽ thứ tự của từng nguồn, gộp URL trùng (bỏ phần #). Tiêu đề và mô tả lấy từ nguồn, chưa xác minh nội dung.|Source rankings are interleaved. Duplicate URLs are merged, ignoring fragments (#). Titles and descriptions come from sources and have not been verified.
+Nguồn không cung cấp mô tả.|The source provided no description.
+Chưa gom được liên kết. Mở tab nguồn để xem kết quả hoặc hoàn thành xác minh, sau đó thử lại. Đây không phải bằng chứng rằng nội dung không tồn tại.|No links collected. Open the source tabs to view results or complete verification, then retry. This does not mean the content does not exist.
+Một chút bí ẩn. Một thế giới của riêng bạn.\nTìm điều tiếp theo khiến bạn tò mò.|A little mystery. A world of your own.\nFind the next thing that sparks your curiosity.
+Bạn muốn khám phá điều gì?|What would you like to discover?
+Tìm trên web|Search the web
+Công cụ tìm kiếm|Search engine
+Tìm kiếm|Search
+Tìm cả hai|Search both
+Mở Brave và SearXNG trong hai tab|Open Brave and SearXNG in two tabs
+Brave + SearXNG · Hai nguồn, cùng từ khóa|Brave + SearXNG · Two sources, one query
+Thêm lối tắt|Add shortcut
+Tùy chỉnh không gian|Customize your space
+Giữ lại những góc nhỏ bạn muốn quay về.|Keep the places you want to return to.
+Tìm trong dấu trang…|Search bookmarks…
+Chưa có trang nào ở đây|No pages here yet
+Nhấn ngôi sao trên thanh địa chỉ để lưu trang đang xem.|Use the star in the address bar to save the current page.
+Mở trong tab mới|Open in new tab
+Chỉnh sửa|Edit
+Xóa dấu trang|Delete bookmark
+Những trang đã ghé qua, theo thứ tự gần nhất.|Your visited pages, most recent first.
+Xóa lịch sử|Clear history
+Xóa lịch sử duyệt web?|Clear browsing history?
+Danh sách các trang đã ghé qua sẽ được xóa.|Your list of visited pages will be deleted.
+Tìm trong lịch sử…|Search history…
+ lượt truy cập| visits
+Một chương mới đang chờ|A new chapter awaits
+Các trang bạn truy cập sẽ xuất hiện ở đây.|Pages you visit will appear here.
+Xóa khỏi lịch sử|Remove from history
+Theo dõi tệp và mở nhanh thư mục chứa.|Track files and open their folders.
+Dọn danh sách|Clear list
+Chưa có tệp tải xuống|No downloads yet
+Tệp tải xuống từ các trang web sẽ được lưu tại đây.|Downloads from websites will appear here.
+Tệp tải xuống|Download
+Mở tệp|Open file
+Tạm dừng|Pause
+Tiếp tục|Resume
+Hủy tải xuống|Cancel download
+Mở thư mục|Open folder
+Một khoảng lặng để giữ lại ý tưởng. Tự động lưu trên máy.|A quiet place for your ideas. Saved automatically on this device.
+Viết một điều bạn muốn nhớ…|Write something you want to remember…
+Nội dung ghi chú|Note content
+Đã lưu trên máy|Saved on this device
+Đang lưu…|Saving…
+Không gian của bạn|Your space
+Từng sắc màu, từng chi tiết — theo cách bạn thích.|Every color, every detail — just the way you like it.
+Xuất giao diện|Export theme
+Diện mạo|Appearance
+Bố cục|Layout
+Trình duyệt|Browser
+Nâng cao|Advanced
+Nền mặc định của Moronco. Điều chỉnh màu sắc và độ hiện theo ý bạn.|Moronco default wallpaper. Adjust its color and visibility.
+Màu nhấn|Accent color
+Nút, đường viền và các chi tiết của riêng bạn.|Personalize buttons, borders and details.
+Độ hiện ảnh nền|Wallpaper opacity
+Giữ chữ dễ đọc trên nền tối.|Keep text readable against a dark background.
+Làm mờ ảnh nền|Wallpaper blur
+Một chút mờ cho không gian yên tĩnh hơn.|Soften your background for a quieter space.
+Giữ mọi thứ vừa tầm tay, cho màn hình của bạn.|Keep everything within reach on your screen.
+Vị trí tab|Tab position
+Kéo tab để sắp xếp lại; chuột phải để ghim.|Drag tabs to reorder; right-click to pin.
+Ngang — phía trên|Horizontal — top
+Dọc — bên trái|Vertical — left
+Thanh công cụ bên trái|Left toolbar
+Đi nhanh tới thư viện và ghi chú.|Quick access to your library and notes.
+Thanh dấu trang|Bookmarks bar
+Những trang yêu thích ngay dưới địa chỉ.|Favorite pages below the address bar.
+Chế độ gọn|Compact mode
+Thu nhỏ chiều cao tab và thanh điều hướng.|Reduce tab and navigation bar height.
+Những lựa chọn nhỏ cho mỗi lần mở Moronco.|Preferences for every Moronco session.
+Dùng cho thanh địa chỉ và trang mới.|Used by the address bar and new tabs.
+Máy chủ SearXNG|SearXNG server
+Máy chủ công khai nhận truy vấn của bạn; có thể đổi sang máy chủ riêng. HTTPS hoặc localhost.|Public servers receive your queries. Use HTTPS or localhost to choose your own server.
+Tiếp tục phiên trước|Restore previous session
+Khôi phục các tab khi mở lại trình duyệt.|Restore tabs when you reopen the browser.
+Nhập địa chỉ https://… hoặc minium://newtab|Enter an https:// address or minium://newtab
+Trang chủ|Home page
+Dùng minium://newtab để mở trang mới.|Use minium://newtab for the new tab page.
+Danh sách máy chủ SearXNG|SearXNG server directory
+Cài đặt Brave|Brave settings
+Brave mặc định tắt câu trả lời AI. SearXNG dùng Bing, DuckDuckGo, Mwmbl và Wiby; kết quả tùy máy chủ, có thể yêu cầu xác minh. Không tự chuyển sang Google.|Automatic Brave AI answers are disabled. SearXNG uses Bing, DuckDuckGo, Mwmbl and Wiby; availability depends on the server and may require verification. No automatic Google fallback.
+Tùy chỉnh nâng cao|Advanced customization
+CSS chỉ áp dụng cho giao diện Moronco. Sao lưu giao diện trước khi thay đổi lớn.|CSS applies only to the Moronco interface. Export your theme before major changes.
+/* Ví dụ: đổi bo góc thanh địa chỉ */\n.address-wrap { border-radius: 18px; }|/* Example: round the address bar */\n.address-wrap { border-radius: 18px; }
+CSS tùy chỉnh|Custom CSS
+Áp dụng CSS|Apply CSS
+Xóa CSS|Clear CSS
+Khôi phục giao diện mặc định|Restore default appearance
+Khôi phục giao diện?|Restore appearance?
+Màu sắc, bố cục và CSS sẽ trở về mặc định. Dấu trang và ghi chú được giữ lại.|Colors, layout and CSS will reset. Bookmarks and notes will be kept.
+Xóa dữ liệu duyệt web?|Clear browsing data?
+Cookie và bộ nhớ đệm sẽ bị xóa. Bạn có thể phải đăng nhập lại các trang web.|Cookies and cache will be cleared. You may need to sign in to websites again.
+Đang kiểm tra|Checking
+Chặn quảng cáo · uBlock Origin Lite|Ad blocking · uBlock Origin Lite
+Đang xử lý…|Working…
+Tắt VPN|Turn off VPN
+Bật VPN|Turn on VPN
+Đang khởi tạo…|Initializing…
+Tắt chặn quảng cáo|Turn off ad blocking
+Bật chặn quảng cáo|Turn on ad blocking
+VPN áp dụng cho kết nối của máy, kể cả ứng dụng khác. Moronco hiển thị trạng thái do WARP báo về.|VPN affects this device, including other apps. Moronco displays the status reported by WARP.
+Mở WARP|Open WARP
+Kiểm tra lại|Check again
+Chặn quảng cáo|Ad blocking
+uBlock Origin Lite chặn quảng cáo và trình theo dõi. Sau khi bật/tắt, tải lại trang để áp dụng cho nội dung đã mở.|uBlock Origin Lite blocks ads and trackers. Reload open pages after changing this setting.
+Đóng|Close
+Chỉnh sửa dấu trang|Edit bookmark
+Lưu một góc yêu thích|Save a favorite place
+Tên hiển thị|Display name
+Tên|Name
+Địa chỉ|Address
+Hủy|Cancel
+Lưu thay đổi|Save changes
+Lưu dấu trang|Save bookmark
+Dấu trang cần địa chỉ http:// hoặc https://|Bookmarks require an http:// or https:// address
+Xác nhận|Confirm
+Tùy chọn tab|Tab options
+Bỏ ghim tab|Unpin tab
+Nhân đôi tab|Duplicate tab
+Mở lại tab đã đóng|Reopen closed tab
+Menu trình duyệt|Browser menu
+Thu phóng|Zoom
+Thu nhỏ|Minimize
+Phóng to|Maximize
+Tìm trên trang|Find in page
+Chụp trang hiện tại|Capture current page
+Video nổi|Picture-in-picture
+Bật âm thanh tab|Unmute tab
+Tắt âm thanh tab|Mute tab
+Tùy chỉnh Moronco|Moronco settings
+Lệnh nhanh|Quick commands
+Công cụ nhà phát triển|Developer tools
+Bạn muốn làm gì?|What would you like to do?
+Tìm lệnh hoặc tab|Find a command or tab
+↑ ↓ để chọn · Enter để mở · Esc để đóng|↑ ↓ to select · Enter to open · Esc to close
+Tùy chỉnh giao diện|Appearance settings
+Mở dấu trang|Open bookmarks
+Mở lịch sử|Open history
+Mở tải xuống|Open downloads
+Viết ghi chú|Write a note
+Mở lại tab vừa đóng|Reopen last closed tab
+Bật / tắt âm thanh tab|Toggle tab audio
+Đổi bố cục tab|Switch tab layout
+Chuyển đến: |Switch to: 
+Không tìm thấy lệnh phù hợp.|No matching commands.
+Nhập từ khóa rồi bấm Tìm cả hai.|Enter a query, then choose Search both.
+Bản xem trước UI — mở bản .exe để duyệt web.|UI preview — open the .exe to browse the web.
+Đã lưu dấu trang|Bookmark saved
+Mở bản .exe để chọn tệp trên máy.|Open the .exe to select a local file.
+Bản xem trước giao diện — chức năng này hoạt động trong .exe.|Interface preview — this feature works in the .exe.
+Các tab|Tabs
+Tab mới (Ctrl+T)|New tab (Ctrl+T)
+Phóng to / Khôi phục|Maximize / Restore
+Đóng cửa sổ|Close window
+Quay lại (Alt+←)|Back (Alt+←)
+Quay lại|Back
+Tiếp (Alt+→)|Forward (Alt+→)
+Tiếp|Forward
+Tải lại (Ctrl+R)|Reload (Ctrl+R)
+Tải lại|Reload
+Tìm kiếm hoặc nhập địa chỉ|Search or enter address
+Tìm kiếm hoặc nhập địa chỉ…|Search or enter address…
+Tìm cả hai: Brave + SearXNG|Search both: Brave + SearXNG
+Lưu dấu trang (Ctrl+D)|Bookmark (Ctrl+D)
+Tải xuống (Ctrl+J)|Downloads (Ctrl+J)
+Lệnh nhanh (Ctrl+K)|Quick commands (Ctrl+K)
+Tìm trên trang…|Find in page…
+Kết quả trước|Previous match
+Kết quả tiếp|Next match
+Đóng tìm kiếm|Close find
+Trang mới|New tab page
+Lịch sử (Ctrl+H)|History (Ctrl+H)

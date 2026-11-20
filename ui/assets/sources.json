@@ -1,0 +1,42 @@
+[
+  {
+    "id": "gosick",
+    "file": "gosick.jpg",
+    "title": "GOSICK",
+    "year": 2011,
+    "width": 1000,
+    "height": 822,
+    "sourcePage": "https://www.tv-tokyo.co.jp/anime/gosick/",
+    "imageUrl": "https://www.tv-tokyo.co.jp/anime/gosick/images/top_main.jpg",
+    "credit": "GOSICK / BONES / Team GOSICK",
+    "provenance": "Official broadcaster key visual",
+    "sha256": "97722F7F0897EAE03B4556FBCD1B6B9670E9CAC494A72738D4186C55A87B03C3"
+  },
+  {
+    "id": "dantalian",
+    "file": "dantalian.jpg",
+    "title": "The Mystic Archives of Dantalian",
+    "year": 2011,
+    "width": 1000,
+    "height": 724,
+    "sourcePage": "https://www.zerochan.net/632605",
+    "imageUrl": "https://static.zerochan.net/Dalian.full.632605.jpg",
+    "credit": "Tanaka Deshirittoru · Dantalian no Shoka",
+    "provenance": "Fan illustration; source upload 2011-06-24",
+    "sha256": "ABF7EE18F457CF43B746E286F94E9BD70CDA527D0F452D8FF9DC99DE44CCAEDC"
+  },
+  {
+    "id": "rozen-maiden",
+    "file": "rozen-maiden.jpg",
+    "title": "Rozen Maiden",
+    "year": 2013,
+    "width": 895,
+    "height": 1280,
+    "sourcePage": "https://www.tbs.co.jp/anime/rozen/",
+    "hostingPage": "https://critical-abstraction.com/post/rozen-maiden-2013-review/",
+    "imageUrl": "https://splash.nyc3.digitaloceanspaces.com/blog/2018/12/Rozen-Maiden-2013-Title.jpg",
+    "credit": "©PEACH-PIT・集英社／ローゼンメイデン製作委員会",
+    "provenance": "2013 key visual; clean archived copy matched to TBS official artwork",
+    "sha256": "DBD5D9D1563D4A8B445B5D7EA8A166ADAB525A49FE35C554F8F3D90C9947DC60"
+  }
+]

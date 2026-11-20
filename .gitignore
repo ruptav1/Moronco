@@ -1,0 +1,7 @@
+.deps/
+dist/
+release/
+artifacts/
+*.user
+tests/*.exe
+backups/
